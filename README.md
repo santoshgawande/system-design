@@ -7,6 +7,10 @@ These are links related System Design Concepts and Application.
 https://leetcode.com/discuss/general-discussion/2340482/system-design-template-that-landed-me-to-google
 
 ## system Design
+
+- https://leetcode.com/discuss/interview-question/1140451/Helpful-list-of-LeetCode-Posts-on-System-Design-at-Facebook-Google-Amazon-Uber-Microsoft
+
+
 1. https://code.google.com/archive/p/google-mobwrite/
 
 2. https://www.hackingnote.com/en/interview/system-design-interview-questions
