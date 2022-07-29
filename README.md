@@ -30,3 +30,5 @@ https://leetcode.com/discuss/general-discussion/2340482/system-design-template-t
 
 ## services-engineering
 11. https://github.com/mmcgrana/services-engineering
+
+12. https://github.com/kilimchoi/engineering-blogs
