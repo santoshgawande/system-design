@@ -2,23 +2,31 @@
 Related to System Design Stuff
 These are links related System Design Concepts and Application.
 
-**References**
+##  **References**
+## Prepare System Design Interview Template
+https://leetcode.com/discuss/general-discussion/2340482/system-design-template-that-landed-me-to-google
 
-[Editor](https://code.google.com/archive/p/google-mobwrite/)
+## system Design
+1. https://code.google.com/archive/p/google-mobwrite/
 
-[Hacking Note](https://www.hackingnote.com/en/interview/system-design-interview-questions)
+2. https://www.hackingnote.com/en/interview/system-design-interview-questions
 
-[HackerNoon](https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f)
+3. [HackerNoon](https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f)
 
-[System Design CheatSheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+4. [System Design CheatSheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 
-[github](https://github.com/checkcheckzz/system-design-interview)
+5. https://github.com/checkcheckzz/system-design-interview
 
-https://github.com/donnemartin/system-design-primer
+6. https://github.com/donnemartin/system-design-primer
 
-https://aaronice.gitbook.io/system-design/reference
+7. https://aaronice.gitbook.io/system-design/reference
 
-https://martin.kleppmann.com/
+8. https://martin.kleppmann.com/
 
-https://www.fullstackpython.com/
+9. https://www.fullstackpython.com/
 
+10. https://github.com/barisozmen/system-design-resources
+
+
+## services-engineering
+11. https://github.com/mmcgrana/services-engineering
